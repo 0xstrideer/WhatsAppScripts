@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/ea6ddfbc-113c-4b26-9172-1ddb6e6adc45" alt="Capa do Repositório">
 </div>
 
-![Status do Projeto](http://img.shields.io/static/v1?label=STATUS&message=COMPLETO&color=green&style=for-the-badge)
-
 ### Descrição do projeto
 
 Este projeto fornece códigos para enviar o script completo de filmes/músicas para seus amigos ou grupos no WhatsApp. Os scripts são facilmente acessíveis e permitem que você compartilhe conteúdo de forma rápida e criativa por meio do WhatsApp Web.
